@@ -4,7 +4,7 @@ function About() {
       <div>
         <h2 className="font-bold text-2xl">Ozim haqimda</h2>
         <p className="mt-6">
-          Azamov Asadbek 2000 yil Fargona Viloati Margilon shahrida
+          A'zamov Asadbek 2000 yil Farg'ona Viloati Margilon shahrida
           tugulganman, 2022 yil oxirlarida Frontend yonalishi boyicha
           oqishni boshlagann,Codial akadmiyasi va Najot talimni Frontend
           yonalishi boyicha bitirganman.Odamlar bilan tezda chiqishishga
