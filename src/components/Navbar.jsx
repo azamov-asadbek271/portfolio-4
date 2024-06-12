@@ -1,7 +1,7 @@
-import Link from "next/link";
+import Link from "next/link"
 import { RiMenu2Line } from "react-icons/ri";
 
-Link;
+Link
 function Navbar() {
   return (
     <div className="bg-base-200">
@@ -28,7 +28,7 @@ function Navbar() {
 
         <div className="navbar-start hidden lg:flex">
           <Link className="font-bold " href="/">
-            Azamov.Dev
+            A'zamov.Dev
           </Link>
         </div>
         <div className="navbar-end hidden lg:flex">
@@ -49,4 +49,4 @@ function Navbar() {
   );
 }
 
-export default Navbar;
+export default Navbar

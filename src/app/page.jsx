@@ -17,7 +17,7 @@ function Home() {
             Front-End React Developer
           </h2>
           <p>
-            Salom, Azamov Asadbek. Ozbekistonning Fargona shahrida tug'ulgan,
+            Salom, A'zamov Asadbek. O'zbekistonning Fargona shahrida tug'ulgan,
             ishtiyoqli Front-End React Developer
           </p>
           <div className="mt-5 flex gap-5">
