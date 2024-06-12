@@ -28,7 +28,7 @@ function Navbar() {
 
         <div className="navbar-start hidden lg:flex">
           <Link className="font-bold " href="/">
-            A'zamov.Dev
+            Azamov.Dev
           </Link>
         </div>
         <div className="navbar-end hidden lg:flex">

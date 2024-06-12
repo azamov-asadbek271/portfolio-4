@@ -2,7 +2,7 @@ function About() {
   return (
     <div className="flex w-full flex-col mx-auto max-w-6xl mt-20">
       <div>
-        <h2 className="font-bold text-2xl">O'zim haqimda</h2>
+        <h2 className="font-bold text-2xl">Ozim haqimda</h2>
         <p className="mt-6">
           Azamov Asadbek 2000 yil Fargona Viloati Margilon shahrida
           tugulganman, 2022 yil oxirlarida Frontend yonalishi boyicha
