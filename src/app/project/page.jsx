@@ -16,6 +16,28 @@ function Project() {
       <h2 className="font-bold text-2xl"> Loyhalarim</h2>
       <div className="max-w-6xl w-full mx-auto mt-10  items-center flex-col grid-cols-3 grid ">
         <div className="card w-80 pb-4 bg-base-100 shadow-xl mb-10 mt-10 items-center gap-5 ">
+          <img className="w-full rounded" src="./assets/namangan.png" alt="" />
+          <h2 className="text-xl font-bold mt-5">Namanganliklar_24</h2>
+          <div className="flex items-center gap-1">
+            <p>Next.Js</p> <RiNextjsFill className="text-lg" />
+          </div>
+
+          <div className="flex gap-5 mt-8">
+            <Link
+              className="font-bold flex items-center gap-2"
+              href="https://namanganliklar-24-tau.vercel.app/"
+            >
+              Vercel <IoLogoVercel />
+            </Link>
+            <Link
+              className="font-bold flex items-center gap-2"
+              href="https://github.com/azamov-asadbek271/namanganliklar_24"
+            >
+              GitHub <FaGithub />
+            </Link>
+          </div>
+        </div>
+        <div className="card w-80 pb-4 bg-base-100 shadow-xl mb-10 mt-10 items-center gap-5 ">
           <img className="w-full rounded" src="./assets/developer.png" alt="" />
           <h2 className="text-xl font-bold mt-5">Developer</h2>
           <div className="flex items-center gap-1">
