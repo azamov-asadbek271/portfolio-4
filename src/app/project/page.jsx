@@ -37,7 +37,34 @@ function Project() {
             </Link>
           </div>
         </div>
+
         <div className="card w-80 pb-4 bg-base-100 shadow-xl mb-10 mt-10 items-center gap-5 ">
+          <div className="card w-80 pb-4 bg-base-100 shadow-xl mb-10 mt-10 items-center gap-5 ">
+            <img
+              className="w-full rounded"
+              src="./assets/movies.png"
+              alt=""
+            />
+            <h2 className="text-xl font-bold mt-5">Movies</h2>
+            <div className="flex items-center gap-1">
+              <p>React.Js</p> <RiNextjsFill className="text-lg" />
+            </div>
+
+            <div className="flex gap-5 mt-8">
+              <Link
+                className="font-bold flex items-center gap-2"
+                href="https://movies-mauve-alpha.vercel.app/"
+              >
+                Vercel <IoLogoVercel />
+              </Link>
+              <Link
+                className="font-bold flex items-center gap-2"
+                href="https://github.com/azamov-asadbek271/movies"
+              >
+                GitHub <FaGithub />
+              </Link>
+            </div>
+          </div>
           <img className="w-full rounded" src="./assets/developer.png" alt="" />
           <h2 className="text-xl font-bold mt-5">Developer</h2>
           <div className="flex items-center gap-1">
